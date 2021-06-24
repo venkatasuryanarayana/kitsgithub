@@ -21,13 +21,15 @@ https://transcripts.gotomeeting.com/#/s/ac640c66274e2bee0405958e53e0ae787e8fc4af
 [Day-7](https://transcripts.gotomeeting.com/#/s/1250a41fd4798b0acd597ba847f2d8788cecd9bb41c4dc81bb11a197248906a2)
 
 # Day-8
-[Day-8]()
+[Day-8](https://transcripts.gotomeeting.com/#/s/ee7d1ab2c981cbc68d9f1628bad82e9f9f8e7e93fbd4f62438ec7a0c3dd535c7)
 
 # Day-9
-[Day-9]()
+[Day-9-1](https://transcripts.gotomeeting.com/#/s/e69d3d2529f12656eeff5082b17cd6f7b1bec31a5f72f309117acba92f78b2c7)
+[Day-9-2](https://transcripts.gotomeeting.com/#/s/8f46293f37547185c0e94b63b1100ca217acc1b311a4ca8dab2c3c3fd926d056)
+[Day-9-3](https://transcripts.gotomeeting.com/#/s/f0bb8904dff4bdd20de79c2b04c9f536d858f8b7e910574da290731eabc8b539)
 
 # Day-10
-[Day-10]()
+[Day-10](https://transcripts.gotomeeting.com/#/s/14cc068c8ff014af7cffe114ac73e0c339f02bdaec634820367fa9b6ebd7143a)
 
 ## we are facing issues in Gotomeeting ,once resolved we are update on soon, issue is mentioned below
 ### Unable to access the meeting history. Please try again later.
