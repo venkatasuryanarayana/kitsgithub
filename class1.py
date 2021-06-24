@@ -1,0 +1,9 @@
+class ksrkkr:
+    def even(eve):
+        if eve%2==0:
+            return True
+        return False
+    def odd(eve):
+        if eve%2==1:
+            return True
+        return False
