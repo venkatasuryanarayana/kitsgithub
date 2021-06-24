@@ -20,3 +20,15 @@ https://transcripts.gotomeeting.com/#/s/ac640c66274e2bee0405958e53e0ae787e8fc4af
 # Day-7
 [Day-7](https://transcripts.gotomeeting.com/#/s/1250a41fd4798b0acd597ba847f2d8788cecd9bb41c4dc81bb11a197248906a2)
 
+# Day-8
+[Day-8]()
+
+# Day-9
+[Day-9]()
+
+# Day-10
+[Day-10]()
+
+## we are facing issues in Gotomeeting ,once resolved we are update on soon, issue is mentioned below
+### Unable to access the meeting history. Please try again later.
+### try to understand
