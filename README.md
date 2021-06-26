@@ -35,3 +35,9 @@ https://transcripts.gotomeeting.com/#/s/ac640c66274e2bee0405958e53e0ae787e8fc4af
 ## [link](https://drive.google.com/drive/folders/1MKsy4VHneu7NGnqi_bK-VSmWjzcAOPtG?usp=sharing)
 Day-12
 ##[Day-12](https://transcripts.gotomeeting.com/#/s/633518f09f95761842a50abaa7a2a0ebe9767d7dba508eb79aa34d1720937a11)
+
+## Exam Link
+[exam](https://docs.google.com/forms/d/e/1FAIpQLSdPqPJXBmVjD9Q6UJ0kIsQa7AiSAN4pDaIfO8RSp5UkGAOfJw/viewform?usp=sf_link)
+## Feed Back
+[Feed back](https://docs.google.com/forms/d/e/1FAIpQLSdZpX0WD5FNl-HfOQVTiX02Yld1fDNQ9d_1AYqM2CWwtijATA/viewform?usp=sf_link)
+
