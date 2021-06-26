@@ -33,7 +33,7 @@ https://transcripts.gotomeeting.com/#/s/ac640c66274e2bee0405958e53e0ae787e8fc4af
 # DAY-11
 [day-11](https://transcripts.gotomeeting.com/#/s/633518f09f95761842a50abaa7a2a0ebe9767d7dba508eb79aa34d1720937a11)
 #Day-12
-[Link](https://transcripts.gotomeeting.com/#/s/70c29605ceacb0e24b997cd19904678140f992a9874a53d59b2f3f9b5f2b044b
+[Link](https://transcripts.gotomeeting.com/#/s/70c29605ceacb0e24b997cd19904678140f992a9874a53d59b2f3f9b5f2b044b)
 # Data Set
 ## [link](https://drive.google.com/drive/folders/1MKsy4VHneu7NGnqi_bK-VSmWjzcAOPtG?usp=sharing)
 Day-12
