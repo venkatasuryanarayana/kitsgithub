@@ -30,6 +30,8 @@ https://transcripts.gotomeeting.com/#/s/ac640c66274e2bee0405958e53e0ae787e8fc4af
 
 # Day-10
 [Day-10](https://transcripts.gotomeeting.com/#/s/14cc068c8ff014af7cffe114ac73e0c339f02bdaec634820367fa9b6ebd7143a)
+# DAY-11
+[day-11](https://transcripts.gotomeeting.com/#/s/633518f09f95761842a50abaa7a2a0ebe9767d7dba508eb79aa34d1720937a11)
 
 # Data Set
 ## [link](https://drive.google.com/drive/folders/1MKsy4VHneu7NGnqi_bK-VSmWjzcAOPtG?usp=sharing)
